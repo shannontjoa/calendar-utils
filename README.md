@@ -8,5 +8,5 @@ Requirements:
 * npm test to run the unit tests
 
 ## Running the calculator
-* npm run count 03/01/1989 03/08/1983' or 
-* node main.js 03/01/1989 03/08/1983'
+* npm run count 03/01/1989 03/08/1983 or 
+* node main.js 03/01/1989 03/08/1983
