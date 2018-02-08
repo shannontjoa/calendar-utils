@@ -10,3 +10,6 @@ Requirements:
 ## Running the calculator
 * npm run count 03/01/1989 03/08/1983 or 
 * node main.js 03/01/1989 03/08/1983
+
+## Constraints
+* For simplicity, the inputs are not validated. They are assumed to have the correct format (dd/mm/yyyy').
